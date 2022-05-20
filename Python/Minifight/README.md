@@ -1,7 +1,8 @@
-0.5.8
+PYTHON 3.10.4
+VERSION 0.5.8
 
-Minifight is a minimalist fighting game for Terminal.
-Made by Ashizian
+Minifight is a minimalist fighting game for your Terminal.
+Made by Ashizian.
 
 ### How to play
 
