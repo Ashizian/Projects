@@ -7,5 +7,5 @@ Made by Ashizian.
 
 ### How to play
 
-1. Install Python
+1. Get Python
 2. Launch the script with Python
