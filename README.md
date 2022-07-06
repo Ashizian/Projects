@@ -2,7 +2,7 @@
 
 ## FRENCH
 
-Ce dossier contient tous les projets d'entraînement développés par Ashizian pour développer ses compétences en programmation
+Ce dossier contient tous les projets d'entraînement développés par Ashizian pour développer ses compétences en programmation.
 
 ## ENGLISH
 
