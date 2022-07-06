@@ -6,4 +6,4 @@ Ce dossier contient tous les projets d'entraînement développés par Ashizian p
 
 ## ENGLISH
 
-This folder contains all the practice projects developed by Ashizian to help him improve his programming skills.
+This folder contains all the practice projects developed by Ashizian to help himself improve his own programming skills.
